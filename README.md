@@ -43,7 +43,7 @@ Written from a student’s perspective, this book breaks down the mysterious beh
 ## 👨‍💻 Author
 
 **Gaurav Pandey**  
-Class 10 Student | Science & Technology Enthusiast  
+Founder of DarkNeuronAI | Science & Technology Enthusiast  
 
 - Interested in Physics, AI, and Programming  
 - Skilled in Python and C  
@@ -61,8 +61,8 @@ This book aims to make quantum mechanics accessible to young learners and curiou
 
 ## 📌 Who This Book Is For
 
-- Students (Class 9–12)  
-- Beginners in Physics  
+- Students  
+- Beginners in Quantum Mechanics   
 - Curious learners  
 - Anyone interested in understanding the quantum world  
 
@@ -78,6 +78,4 @@ This book aims to make quantum mechanics accessible to young learners and curiou
 ## 🚀 Final Note
 
 The universe doesn’t behave the way we expect — and that’s what makes it beautiful.  
-Keep learning, keep questioning.
-
----
+Keep learning, keep questioning.  
